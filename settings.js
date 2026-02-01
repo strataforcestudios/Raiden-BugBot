@@ -18,14 +18,14 @@ global.botname = 'RAIDEN BUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'raiden\n\nContact: +256709824720'
+global.author = 'raiden\n\nContact: +27828652577'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Raiden Bot"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va7qmJ4LNSa4HAXqg10u'
+global.link = 'https://whatsapp.com/channel/0029Vb7KmSh2f3EPTuyqLg2p'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
